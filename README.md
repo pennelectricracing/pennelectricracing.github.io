@@ -1,1 +1,1 @@
-pennelectricracing.github.io
+Penn Electric Racing - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
